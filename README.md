@@ -31,7 +31,7 @@ directly around them.
 My particular implementation depends on the Cinder graphics library to run and display the visualization of the boids.
 In order to use this visualization on your machine you will need to go ahead and download the Cinder library from their
 website. After that, you will want to create a folder under Cinder, then place this project in that folder. From there,
-building tha project and running it should work!
+building the project and running it should work!
 ---
 __NOTE__
 
